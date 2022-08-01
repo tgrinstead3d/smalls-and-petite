@@ -6,7 +6,7 @@ import NavBar from "~/components/layout/NavBar.vue";
 
 
 <template>
-  <div class="font-['proxima-nova']">
+  <div className="font-['proxima-nova']">
     <NavBar/>
     <NuxtPage/>
   </div>
