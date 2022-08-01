@@ -8,6 +8,7 @@
     <input type="text" placeholder="Search Products" class="input input-bordered bg-white h-[36px] px-4 focus:bg-[#f8f8f8] focus:outline-none"/>
   </div>
 </template>
+
 <script>
 export default {
   name: 'Search'
